@@ -1,0 +1,103 @@
+    /* Style Codes */
+body{
+    background-color:#ace0e0;
+}
+
+.center{
+    text-align: center;
+    color: white;
+}
+
+.container{
+    width: 75%;
+    text-align: left;
+}
+
+nav{
+    font-family: 'Itim', cursive;
+    background: rgba(153, 217, 217, 1.0);
+}
+
+.pool{
+    background-image: url("https://www.nycgovparks.org/photo_gallery/full_size/24346.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 0.94;
+}
+
+.lofi{
+    background-image: url("https://i.ytimg.com/vi/PBr9Xq7vXHo/maxresdefault.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 0.92;
+}
+
+.totter{
+    background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3798.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 0.90;
+}
+
+.yum{
+    background-image: url("https://st.depositphotos.com/1430176/4183/v/950/depositphotos_41833689-stock-illustration-seamless-food-background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 0.98;
+}
+
+.card{
+    color: black;
+}
+
+.tyty{
+    color: black;
+}
+
+.shin{
+    text-shadow: 3px 2px 4px #000000;
+}
+
+.label{
+    color: black;
+}
+
+.carousel-control{
+    color: black;
+}
+
+.gojo{
+    position: relative;
+    width:10rem;
+    height:8.5rem;
+    left:240px;
+    bottom:-150px;
+}
+
+.fran{
+    position: relative;
+    width:10rem;
+    height:9.5rem;
+    left:640px;
+    bottom:-100px;
+}
+
+.val{
+    position: relative;
+    width:10rem;
+    height:8rem;
+    left:1040px;
+    bottom:-50px;
+}
