@@ -5,10 +5,7 @@ This project is a simple website that I built as part of my journey into learnin
 
 🚀 About the Project - A fun about me website!
 
-📂 How to Use
-Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
-Open index.html in your browser to see the website in action!
+📂 How to View - You can simply paste Tiller-Kun.github.io/homepage into your browser to view the live website.
 
 🛠️ Tools & Technologies
 HTML
