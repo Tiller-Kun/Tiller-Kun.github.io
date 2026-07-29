@@ -1,5 +1,5 @@
 
-# Welcome to my first wbesite coding project! 🎉
+# Welcome to my first website coding project! 🎉
 
 This project is a simple website that I built as part of my journey into learning web development. It's nothing super serious—just a basic website with a goal of highlighting some aspects of myself and gaining hands-on experience on building websites from scratch.
 
